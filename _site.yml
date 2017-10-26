@@ -3,11 +3,18 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "Resume of Shaoxuan Chen"
+      href: resume.html
+    - text: "Project have done"
+      href: p8105_hw3_tc2900.html
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: danielchensx@gmail.com
+      href: mailto:danielchensx@gmail.com
     - icon: fa-github fa-lg
       href: https://github.com/ShaoxuanChen
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/shaoxuan-chan-432546139/
 output:
-  html_document
+   html_document:
+     theme: readable

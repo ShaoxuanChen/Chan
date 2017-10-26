@@ -1,0 +1,15 @@
+---
+title: "Shaoxuan Chen"
+---
+###Welcome to 陈少宣's Website!
+
+
+
+I'm a biostatistic student in Columbia University.
+You can find some information about our univeristy or major from [here](https://www.mailman.columbia.edu)
+
+And my favorite sports is [Tennis](http://www.tennis.com), 
+and [Rafael Nadal](https://en.wikipedia.org/wiki/Rafael_Nadal) is my faviorte tennis star.
+
+
+<img src="picture/spiderman.jpeg" style="width:85%">
